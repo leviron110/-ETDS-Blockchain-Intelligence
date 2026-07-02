@@ -1,0 +1,10 @@
+backend/
+
+ingestion/
+processing/
+intelligence/
+behavior/
+indicator/
+alerts/
+api/
+common/
